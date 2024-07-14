@@ -1,3 +1,3 @@
 #### Welcome to the repository!
 
-##### This repository contains Supervised & Unsupervised Machine Learning implementation which i did during my learning journey!
+##### This repository contains Supervised & Unsupervised Machine Learning implementation that I worked on during my learning journey!
